@@ -23,3 +23,5 @@ spec:
           value: "Hello from the environment"
         - name: DEMO_FAREWELL
           value: "Such a sweet sorrow"
+        - name: TEST_AUTO_SYNC
+          value: "SUCCESSSSSSSSS!!!"
